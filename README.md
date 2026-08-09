@@ -7,7 +7,6 @@
 <br/>
 
 ![Academic](https://img.shields.io/badge/B.Tech-AI%20%26%20ML-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-7.46%2F10-8A2BE2?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Indore%2C%20India-9370DB?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
@@ -176,8 +175,7 @@ Flask-based agricultural assistant serving farmers across 13 Indian languages, c
 
 - **AlumniConnect** — RAG-powered alumni networking platform
 - **LexiClarify** — Legal document analyzer built on Gemini
-- **AetherWatch** — INSAT satellite cloud cluster detection
-- **TrafficAI** — YOLOv8n-based smart traffic management system for Indore
+  
 
 </details>
 
@@ -264,15 +262,6 @@ Contributing to [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon), a pee
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nandinisingh07&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
 
 ## Contribution Activity
 
@@ -284,15 +273,7 @@ Contributing to [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon), a pee
 
 ---
 
-## Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Nandinisingh07/Nandinisingh07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
 
 ## Current Focus
 
