@@ -277,22 +277,27 @@ Contributing to [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon), a pee
 
 ## Current Focus
 
-```yaml
-current_focus:
-  learning:
-    - Advanced multi-agent orchestration (LangGraph, CrewAI)
-    - Distributed systems & scalable backend architecture
-  building:
-    - Production-grade retrieval and agentic AI systems
-    - Full-stack platforms with measured, security-first engineering
-  exploring:
-    - Applied research in time series ML/DL
-    - Edge deployment & model quantization for low-resource environments
-  open_to:
-    - AI/ML Engineering Internships
-    - Full Stack + AI Product Roles
-    - Open Source Collaboration
-```
+## 🚀 Current Focus
+
+<div align="center">
+
+|  LEARNING |  BUILDING |  EXPLORING |
+|:---:|:---:|:---:|
+| Advanced multi-agent orchestration | Production-grade retrieval & agentic AI systems | Applied research in time series ML/DL |
+| LangGraph · CrewAI | Full-stack AI platforms | Edge deployment |
+| Distributed systems | Security-first engineering | Model quantization |
+| Scalable backend architecture | Measured, production-ready systems | Low-resource environments |
+
+</div>
+
+<break>
+### 🎯 Open To
+
+<div align="center">
+
+**AI/ML Engineering Internships** · **Full Stack + AI Product Roles** · **Open Source Collaboration**
+
+</div>
 
 ---
 
