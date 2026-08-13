@@ -44,8 +44,8 @@ I'm a pre-final year AI/ML engineering undergrad who builds complete, deployable
 <table align="center">
 <tr>
 <td>
+<h2>Open To</h2>
 
-**🎯 Open To**
 - AI/ML & Software Engineering Internships
 - Open Source Collaboration
 - Research-Driven Engineering Roles
@@ -233,7 +233,7 @@ Contributing to [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon), a pee
 </div>
 
 ---
-
+<!--
 ## Coding Profiles
 
 <div align="center">
@@ -262,8 +262,8 @@ Contributing to [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon), a pee
 
 ---
 
-
-## Contribution Activity
+-->
+<h2>Contribution Activity</h2>
 
 <div align="center">
 
@@ -275,9 +275,9 @@ Contributing to [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon), a pee
 
 
 
-## Current Focus
 
-## 🚀 Current Focus
+
+<h2>Current Focus</h2>
 
 <div align="center">
 
@@ -291,7 +291,7 @@ Contributing to [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon), a pee
 </div>
 
 <break>
-### 🎯 Open To
+<h2>Open To</h2>
 
 <div align="center">
 
@@ -316,7 +316,7 @@ Contributing to [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon), a pee
 
 <div align="center">
 
-*"Engineering isn't about writing code — it's about building systems people can trust."*
+*"Let’s connect . Let’s create . Let’s build."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:8a2be2,100:6e00ff&height=120&section=footer" width="100%"/>
 
