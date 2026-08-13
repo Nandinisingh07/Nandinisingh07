@@ -87,12 +87,11 @@ I'm a pre-final year AI/ML engineering undergrad who builds complete, deployable
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Retrieval-Augmented Generation** | ●●●●● | Multi-stage hybrid retrieval — dense (Sentence-Transformers) + keyword (BM25) + visual (CLIP), reciprocal rank fusion, cross-encoder reranking, MMR deduplication |
-| **Computer Vision** | ●●●●○ | Face recognition & liveness verification (InsightFace/ArcFace), OCR pipelines (Tesseract, PaddleOCR), lightweight on-device classification (TFLite) |
-| **Generative AI & Agentic Systems** | ●●●●○ | LangChain, LangGraph, CrewAI, AutoGen, multi-agent orchestration, prompt engineering, Gemini & local LLMs via Ollama |
-| **NLP & Semantic Search** | ●●●●○ | Sentence-BERT embeddings, FAISS vector search, intent classification, multilingual TTS/IVR pipelines |
-| **MLOps & Deployment** | ●●●○○ | Dockerized microservices, CI/CD, model quantization for edge deployment, production monitoring with Prometheus |
-
+| **Retrieval-Augmented Generation** | ★★★★★ | Multi-stage hybrid retrieval — dense (Sentence-Transformers) + keyword (BM25) + visual (CLIP), reciprocal rank fusion, cross-encoder reranking, MMR deduplication |
+| **Computer Vision** | ★★★★☆ | Face recognition & liveness verification (InsightFace/ArcFace), OCR pipelines (Tesseract, PaddleOCR), lightweight on-device classification (TFLite) |
+| **Generative AI & Agentic Systems** | ★★★★☆ | LangChain, LangGraph, CrewAI, AutoGen, multi-agent orchestration, prompt engineering, Gemini & local LLMs via Ollama |
+| **NLP & Semantic Search** | ★★★★☆ | Sentence-BERT embeddings, FAISS vector search, intent classification, multilingual TTS/IVR pipelines |
+| **MLOps & Deployment** | ★★★☆☆ | Dockerized microservices, CI/CD, model quantization for edge deployment, production monitoring with Prometheus |
 </div>
 
 ---
@@ -100,7 +99,7 @@ I'm a pre-final year AI/ML engineering undergrad who builds complete, deployable
 ## Featured Projects
 
 <details open>
-<summary><b>🧠 IntelliMesh — Secure Multimodal RAG System</b></summary>
+<summary><b> IntelliMesh — Secure Multimodal RAG System</b></summary>
 <br/>
 
 Fully air-gapped, offline-first multimodal RAG system ingesting PDFs, DOCX, images, and audio through local OCR, BLIP captioning, and Whisper transcription. Runs a six-stage hybrid retrieval pipeline — dense (MiniLM) + BM25 + CLIP visual search, fused via reciprocal rank fusion, cross-encoder reranked, and MMR-deduplicated — on top of a computed `networkx` knowledge graph with clearance-level access control. A dedicated hallucination guard achieved a **0% hallucination rate** across a 36-query, 9-configuration ablation evaluation.
