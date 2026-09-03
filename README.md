@@ -11,7 +11,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6e00ff?style=for-the-badge&logo=vercel&logoColor=white)](https://nandini-portfolio-green.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6e00ff?style=for-the-badge)](https://nandini-portfolio-green.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandinisingh10)
 [![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandinii.singh07@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-9333EA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nandinisingh07)
