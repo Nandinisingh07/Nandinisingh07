@@ -11,7 +11,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6e00ff?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Nandinisingh07)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6e00ff?style=for-the-badge&logo=vercel&logoColor=white)](https://nandini-portfolio-green.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandinisingh10)
 [![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandinii.singh07@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-9333EA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nandinisingh07)
@@ -242,7 +242,6 @@ Contributing to [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon), a pee
 [![HackerRank](https://img.shields.io/badge/HackerRank-8A2BE2?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Nandinisingh07)
 [![CodeChef](https://img.shields.io/badge/CodeChef-9370DB?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Nandinisingh07)
 
-<sub>⚠️ Update these links to your actual coding-profile usernames if they differ from your GitHub handle.</sub>
 
 </div>
 
@@ -307,8 +306,7 @@ Contributing to [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon), a pee
 [![Gmail](https://img.shields.io/badge/Gmail-6e00ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandinii.singh07@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandinisingh10)
 [![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nandinisingh07)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Nandinisingh07)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://nandini-portfolio-green.vercel.app/)
 </div>
 
 <br/>
